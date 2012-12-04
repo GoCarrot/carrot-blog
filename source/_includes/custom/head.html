@@ -3,9 +3,9 @@
 <link href="http://gocarrot.com/assets/stylesheet" media="all" rel="stylesheet" type="text/css">
 <script src="http://gocarrot.com/assets/javascript" type="text/javascript"></script>
 
-<meta property="og:url" content="http://blog.gocarrot.com" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Carrot Blog" />
-<meta property="og:description" content="Virals done right." />
 <meta property="og:image" content="http://gocarrot.com/assets/image/carrot_logo/png" />
+<meta property="og:url" content="{{ canonical }}" />
+<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
+<meta property="og:description" content="{% if page.title %}{{ page.title }}{% else %}Virals done right.{% endif %}" />
