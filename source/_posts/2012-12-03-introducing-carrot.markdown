@@ -30,9 +30,11 @@ Who likes metrics? We like metrics! Carrot tracks and records clicks, exit-paths
 Carrot was designed with mobile in mind. Our mobile SDKs cache user actions on the device to make sure they are never lost. We offer the easiest to use Facebook Single-Sign-On wrapper to let you get your users authenticated and back to using your app quickly and seamlessly.
 
 ### Carrot + Unity = Cake
+{% img "pull-right" http://gocarrot.com/assets/image/unity128/png 100 100 %}
 There's no two ways about it: Carrot loves Unity. Our editor extensions make using Carrot with Unity a breeze. Enter your app's Carrot credentials in our UI window and you are good to go. Our post build scripts will make sure Xcode's plist files contain all the needed Facebook information, and automatically makes the needed modifications to the Unity-generated source code.
 
 ### Carrot and Game Center: Best Friends Forever
+{% img "pull-right" http://gocarrot.com/assets/image/gamecenter500/png 100 100 %}
 If your app has Game Center achievements there's no need to re-enter the information in Carrot, we'll pull in descriptions, points, images and translations with the click of a button. Your Game Center achievements will transform from a 'pat on the back' for your users into viral growth for your application.
 
 ## When? How Much?
