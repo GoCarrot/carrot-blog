@@ -45,4 +45,4 @@ Our paying tiers will include custom Open Graph objects and actions, automated t
 We are committed to making Carrot the best toolset for viral distribution that the industry has ever seen. We can't wait to show you what's in store for Carrot.
 
 ## I Can't Wait That Long!
-Well then we have good news for you: Our free tier is in closed beta right now! Head over to to [Carrot Inc. on Facebook](https://www.facebook.com/GoCarrot), give us a 'Like' and send us a message. We'll get you hooked up with the goods.
+Well then we have good news for you: Our free tier is in closed beta right now! Send us an e-mail: [beta@gocarrot.com](mailto:beta@gocarrot.com)
