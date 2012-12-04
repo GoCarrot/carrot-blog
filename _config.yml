@@ -97,4 +97,4 @@ google_analytics_tracking_id: 'UA-35792905-1'
 google_analytics_domain: 'gocarrot.com'
 
 # Facebook Like
-facebook_like: false
+facebook_like: true
