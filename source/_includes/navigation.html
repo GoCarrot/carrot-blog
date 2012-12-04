@@ -1,15 +1,14 @@
-<div class="navbar">
+<div class="navbar navbar-inverse navbar-fixed-top">
   <div class="navbar-inner">
-    <div class="container">
-      <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-        <span class="icon-bar"></span>
-      </a>
+    <div class="container-fluid">
+      <a class="brand" href="https://gocarrot.com/"><img alt="Carrot" src="http://gocarrot.com/assets/image/carrot_logo_header/png" /></a>
+        <ul class="nav mainnav">
+          <li id="navhome" class=""><a href="https://gocarrot.com/home">Home</a></li>
+          <li id="navapps" class=""><a href="https://gocarrot.com/apps">Apps</a></li>
+          <li id="navdocs" class=""><a href="https://gocarrot.com/docs">Documentation</a></li>
+          <li id="navblog" class="active"><a href="http://blog.gocarrot.com/">Blog</a></li>
+        </ul>
 
-      <a class="brand" href="{{ root_url }}/">{{ site.title }}</a>
-
-      <div class="nav-collapse">
         {% include custom/navigation.html %}
 
         <ul class="nav pull-right" data-subscription="rss{% if site.subscribe_email %} email{% endif %}">
@@ -27,7 +26,6 @@
             </fieldset>
           </form>
         {% endif %}
-      </div>
     </div>
   </div>
 </div>

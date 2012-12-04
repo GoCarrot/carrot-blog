@@ -6,7 +6,7 @@ url: http://blog.gocarrot.com
 title: Carrot Blog
 subtitle: OpenGraph as a service.
 author: Carrot Inc.
-simple_search: http://google.com/search
+#simple_search: http://google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
