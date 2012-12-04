@@ -18,7 +18,7 @@ With Carrot your app's achievements, scores and user actions become viral powerh
 Carrot is virals done __right__.
 <!-- More -->
 ## Open Graph
-Carrot hands you the reins for Open Graph, Facebook's API that allows rich integration into their social graph. Our cloud-based server stack was built to handle the firehose, navigate the changing Facebook regulations and distil it down to an easy-to-use set of visual editors and constant SDK so you can focus on making your app *great*.
+Carrot hands you the reins for [Open Graph](https://developers.facebook.com/docs/concepts/opengraph/), Facebook's API that allows rich integration into their social graph. Our cloud-based server stack was built to handle the firehose, navigate the changing Facebook regulations and distil it down to an easy-to-use set of visual editors and constant SDK so you can focus on making your app *great*.
 {% img http://gocarrot.com/assets/image/docs-achievement-en/png %}
 Forget building a backend, complicated Facebook requests, the constantly changing Graph API, and updating XML tags; Carrot lets developers focus on the application, and gives growth managers a full-featured toolset for updating and optimizing viral features.
 
