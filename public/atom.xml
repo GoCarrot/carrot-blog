@@ -4,7 +4,7 @@
   <title><![CDATA[Carrot Blog]]></title>
   <link href="http://blog.gocarrot.com/atom.xml" rel="self"/>
   <link href="http://blog.gocarrot.com/"/>
-  <updated>2012-12-04T11:36:50-08:00</updated>
+  <updated>2012-12-04T11:47:07-08:00</updated>
   <id>http://blog.gocarrot.com/</id>
   <author>
     <name><![CDATA[Carrot Inc.]]></name>
@@ -20,7 +20,7 @@
     <id>http://blog.gocarrot.com/blog/2012/12/03/introducing-carrot</id>
     <content type="html"><![CDATA[<p>Welcome to Carrot.</p>
 
-<p>Carrot provides your application the best tools in the industry for viral distribution on the world&#8217;s largest social graph. We offer a robust server solution combined with lightweight, easy to use SDKs to get you up and running quickly and reliably, and a drag-and-drop visual editor for your virals with metrics integration so you can monitor, tune and increase the distribution of your app.</p>
+<p>Carrot provides your application with the best tools in the industry for viral distribution on the world&#8217;s largest social graph. We offer a robust server solution combined with lightweight, easy to use SDKs to get you up and running quickly and reliably, and a drag-and-drop visual editor for your virals with metrics integration so you can monitor, tune and increase the distribution of your app.</p>
 
 <p><img class="thumbnail" src="http://gocarrot.com/assets/image/high-scores/png"></p>
 
