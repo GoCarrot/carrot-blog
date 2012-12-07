@@ -1,12 +1,12 @@
 <link href="https://fonts.googleapis.com/css?family=Roboto:300|Roboto:400|Roboto:500" rel="stylesheet" type="text/css">
 
-<link href="http://gocarrot.com/assets/stylesheet" media="all" rel="stylesheet" type="text/css">
-<script src="http://gocarrot.com/assets/javascript" type="text/javascript"></script>
+<link href="{% carrot stylesheet %}" media="all" rel="stylesheet" type="text/css">
+<script src="{% carrot javascript %}" type="text/javascript"></script>
 
 <meta property="fb:app_id" content="280914862014150" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
-<meta property="og:image" content="http://gocarrot.com/assets/image/carrot_transparent/png" />
+<meta property="og:image" content="{% carrot image carrot_transparent png %}" />
 <meta property="og:url" content="{{ canonical }}" />
 <meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
 <meta property="og:description" content="{% if page.preview %}{{ page.preview }}{% else %}Virals done right.{% endif %}" />
