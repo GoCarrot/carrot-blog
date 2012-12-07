@@ -6,13 +6,13 @@ date: 2012-12-07 10:51
 comments: true
 categories: [Carrot, Open Graph]
 preview: "What is Open Graph, how does it work with Facebook, and what can it do for my app?"
+published: false
 ---
-## Open Graph and Viral Growth
 [{% img "thumbnail pull-right" /images/wikipedia_graph.png 240 208 'A graph with three connected components.' 'test' %}][wikigraph]
-Open Graph is a technology that allows approved applications to retrieve and send information to Facebook’s graph of connected users. You can learn much more about [graph theory on Wikipedia](http://en.wikipedia.org/wiki/Graph_theory) but to keep it simple take a look at the picture to the right. The dots are people, and the lines are friendships.
+Open Graph is a technology that allows applications to retrieve and send information to Facebook’s graph of connected users. You can learn much more about [graph theory on Wikipedia](http://en.wikipedia.org/wiki/Graph_theory) but to keep it simple take a look at the picture to the right. The dots are people, and the lines are friendships.
 
-When a person posts a photo, or a status update the people they are connected to see that photo or status update. They may chose to share that story themselves which then allows more people to see it, and so on, and so on. This is what is described as viral. Facebook's platform allows bits of information and media to spread virally because people tend to be interested in things that interest their friends.
-
+When a person posts a photo, or a status update the people they are connected to see that photo or status update. They may choose to share that story themselves which then allows more people to see it, and so on, and so on. This is what is described as viral. Facebook's platform allows bits of information and media to spread virally because people tend to be interested in things that interest their friends.
+<!-- More -->
 In years past, games and applications would post "wall spam" in order to try and achieve virality. This worked for a short time, but very quickly started annoying users and was supressed by Facebook. The core idea behind "wall spam" was to drive viral growth for a game or application by putting content in front of a user's friends. Facebook realized that allowing this kind of sharing was a core part of the value provided by their platform, but they couldn't allow "wall spam" to create a bad experience for their users. So Open Graph actions were born.
 
 ## Open Graph Actions and Objects
