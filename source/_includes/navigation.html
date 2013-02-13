@@ -1,31 +1,13 @@
-<div class="navbar navbar-inverse">
+<div class="navbar">
   <div class="navbar-inner">
     <div class="container-fluid">
-      <a class="brand" href="https://gocarrot.com/"><img alt="Carrot" src="{% carrot image carrot_logo_header png %}" /></a>
-        <ul class="nav mainnav">
-          <li id="navhome" class=""><a href="{% carrot home %}">Home</a></li>
-          <li id="navapps" class=""><a href="{% carrot apps %}">Apps</a></li>
-          <li id="navdocs" class=""><a href="{% carrot docs %}">Documentation</a></li>
-          <li id="navblog" class="active"><a href="http://blog.gocarrot.com/">Blog</a></li>
-        </ul>
-
-        {% include custom/navigation.html %}
-
-        <ul class="nav pull-right" data-subscription="rss{% if site.subscribe_email %} email{% endif %}">
-          <li><a href="{{ site.subscribe_rss }}" rel="subscribe-rss" title="subscribe via RSS">RSS</a></li>
-          {% if site.subscribe_email %}
-            <li><a href="{{ site.subscribe_email }}" rel="subscribe-email" title="subscribe via email">Email</a></li>
-          {% endif %}
-        </ul>
-
-        {% if site.simple_search %}
-          <form class="pull-right navbar-search" action="{{ site.simple_search }}" method="get">
-            <fieldset role="search">
-              <input type="hidden" name="q" value="site:{{ site.url | shorthand_url }}" />
-              <input class="search-query" type="text" name="q" results="0" placeholder="Search"/>
-            </fieldset>
-          </form>
-        {% endif %}
+      <a class="brand" href="{% carrot home %}"><img alt="Carrot" src="{% carrot image carrot_virals png %}" /></a>
+      <ul class="nav nav-pills pull-right">
+        <li id="navhome"><a href="{% carrot home %}">How it Works</a></li>
+        <li id="navblog" class="active"><a href="http://blog.gocarrot.com/">Blog</a></li>
+        <li id="login"><a href="{% carrot developers/sign_in %}" class="login">Log In</a></li>
+        <li id="signup"><a href="{% carrot developers/sign_up %}" class="btn btn-signup btn-warning btn-large">Sign up for the free plan.</a></li>
+      </ul>
     </div>
   </div>
 </div>
