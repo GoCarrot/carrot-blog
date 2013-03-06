@@ -6,7 +6,7 @@ date: 2013-03-04 13:41
 comments: true
 categories: [Carrot]
 preview: "How do developers get the word out about their apps? Making a great app isn't enough, people try to get write-ups on popular sites, buy advertising, pay for reviews, but these are all temporary methods. How can developers find users, keep users, and use those users to get more users?"
-published: false
+published: true
 ---
 Last year while polishing up a game for release on the App Store we ran into a problem: How do developers get the word out about their apps? Making a great app isn't enough, people try to get write-ups on popular sites, buy advertising, pay for reviews, but these are all temporary methods.
 
