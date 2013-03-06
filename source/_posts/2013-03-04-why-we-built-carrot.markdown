@@ -11,12 +11,12 @@ published: true
 Last year I was working on a game, Refuge. It was an iOS game similar to Space Invaders where players scored higher as they comboed alien kills, and bounced shots off walls. As part of the planning for release on the App Store we ran into a problem: _How do we get the word out about our game?_
 
 In fact, how do developers in general get the word out about their cool new game or app? Making a great app isn’t enough. Developers try to get write-ups on popular sites, buy advertising, pay for reviews, but these are temporary methods. Money is spent, some users are acquired, and then it's done. __It's not enough for developers to find users, and keep users; those users need to generate more users.__
-
+<hr />
 {% blockquote Eric Ries, The Lean Startup %}
 Sustainable growth is characterized by one simple rule:
 New customers come from the actions of past customers.
 {% endblockquote %}
-
+<hr />
 #### We built Carrot to make users attract more users.
 <!-- More -->
 After watching Spotify explode with new users Mark, our Creative Director, said, "I want our game to do that." Spotify was using Facebook's new Open Graph actions. This wasn't the hated 'wall spam' that plagued the early days of Facebook, this was a different way of getting the message out about what an app does, and how your friends use it. This was social proof, advertising and viral marketing all slammed into one! _Why wasn't everyone using this!?_
