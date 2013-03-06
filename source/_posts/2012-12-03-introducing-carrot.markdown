@@ -6,6 +6,7 @@ date: 2012-12-03 16:20
 comments: true
 categories: [Carrot, Open Graph]
 preview: "Carrot provides your application with the best tools in the industry for viral distribution on the world's largest social graph. We offer a robust server solution combined with lightweight, easy to use SDKs to get you up and running quickly and reliably, and a drag-and-drop visual editor for your virals with metrics integration so you can monitor, tune and increase the distribution of your app."
+published: false
 ---
 Welcome to Carrot.
 
