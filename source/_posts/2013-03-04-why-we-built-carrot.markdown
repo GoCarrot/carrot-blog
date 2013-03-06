@@ -5,7 +5,7 @@ author: Pat Wilson
 date: 2013-03-04 13:41
 comments: true
 categories: [Carrot]
-preview: "Making a great app isn’t enough. Developers try to get write-ups on popular sites, buy advertising, pay for reviews, but these are temporary methods. Money is spent, some users are acquired, and then it's done. To make the most of these methods, users need to generate more users."
+preview: "Making a great game or app isn’t enough. Developers try to get write-ups on popular sites, buy advertising, pay for reviews, but these are temporary methods. Money is spent, some users are acquired, and then it's done. It's not enough for developers to find users, and keep users; those users need to generate more users."
 published: true
 ---
 Last year I was working on an iOS game called Refuge. It was similar to Space Invaders with an added mechanic where players scored higher as they comboed alien kills, and bounced shots off walls. As part of the planning for release on the App Store we ran into a problem: _How do we get the word out about our game?_
