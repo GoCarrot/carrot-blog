@@ -8,9 +8,11 @@ categories: [Carrot]
 preview: "It's not enough for developers to find users, and keep users; those users need to generate more users."
 published: true
 ---
-Last year I was working on an iOS game called Refuge. It was similar to Space Invaders with an added mechanic where players scored higher as they comboed alien kills, and bounced shots off walls. As part of the planning for release on the App Store we ran into a problem: _How do we get the word out about our game?_
+Last year I was working on an iOS game called Refuge. As part of the planning for release on the App Store we ran into a problem: _How do we get the word out about our game?_
 
-In fact, how do developers in general grow their apps in the crowded mobile market? Making a great game or app isn’t enough. Developers try to get write-ups on popular sites, buy advertising, pay for reviews, but these are temporary methods. Money is spent, some users are acquired, and then it's done. __It's not enough for developers to find users, and keep users; those users need to generate more users.__
+We knew Refuge was fun. It was similar to Space Invaders with an added mechanic where players scored higher as they comboed alien kills, and bounced shots off walls. But how could we get noticed, and how would we grow? The mobile market is crowded, and more apps get released every day.
+
+Making a great game or app isn’t enough. Developers try to get write-ups on popular sites, buy advertising, pay for reviews, but these are temporary methods. Money is spent, some users are acquired, and then it's done. __It's not enough for developers to find users, and keep users; those users need to generate more users.__
 <hr />
 {% blockquote Eric Ries, The Lean Startup %}
 Sustainable growth is characterized by one simple rule:
