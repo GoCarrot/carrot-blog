@@ -20,7 +20,6 @@ We knew Refuge was fun. It was similar to Space Invaders with an added mechanic 
 Making a great game or app isn’t enough. Developers try to get write-ups on popular sites, buy advertising, pay for reviews, but these are temporary methods. Money is spent, some users are acquired, and then it's done. It's not enough for developers to find users, and keep users; those __users need to generate more users.__
 
 #### What we needed was Carrot, but it didn't exist yet.
-<!-- More -->
 After watching Spotify explode with new users Mark, our Creative Director, said, "I want our game to do that." Spotify was using Facebook's new Open Graph actions. This wasn't the hated 'wall spam' that plagued the early days of Facebook, this was a different way of getting the message out about what an app does, and how your friends use it. This was social proof, advertising and viral marketing all slammed into one! __Why wasn't everyone using this!?__
 
 {% img "thumbnail" /images/spotify_og.png %}
