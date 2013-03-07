@@ -17,16 +17,17 @@ Last year I was working on an iOS game called Refuge. As part of the planning fo
 
 We knew Refuge was fun. It was similar to Space Invaders with an added mechanic where players scored higher as they comboed alien kills, and bounced shots off walls. But how could we get noticed, and how would we grow? The mobile market is crowded, and more apps get released every day.
 
-Making a great game or app isn’t enough. Developers try to get write-ups on popular sites, buy advertising, pay for reviews, but these are temporary methods. Money is spent, some users are acquired, and then it's done. It's not enough for developers to find users, and keep users; those __users need to generate more users.__
-
 #### What we needed was Carrot, but it didn't exist yet.
+
+It's not enough for developers to find users, and keep users; those __users need to generate more users.__
+
 After watching Spotify explode with new users Mark, our Creative Director, said, "I want our game to do that." Spotify was using Facebook's new Open Graph actions. This wasn't the hated 'wall spam' that plagued the early days of Facebook, this was a different way of getting the message out about what an app does, and how your friends use it. This was social proof, advertising and viral marketing all slammed into one! __Why wasn't everyone using this!?__
 
 {% img "thumbnail" /images/spotify_og.png %}
 
 #### "How hard could it be?"
 
-It was research time! It was immediately obvious that Open Graph actions were very powerful, but very difficult to use. __Using Open Graph required a dedicated server__, a high level of technical know-how, and a time commitment to updating and maintaining the back-end. They required __very specific data in a very specific format__, and Facebook could request that data from our server at any time.
+We quickly discovered that Open Graph actions were very powerful, but very difficult to use. Using __Open Graph required a dedicated server__, a high level of technical know-how, and a time commitment to updating and maintaining the back-end. They required __very specific data in a very specific format__, and Facebook could request that data from our server at any time.
 
 Setting this up separately for each of our games was out of the question. Alex, our CTO, threatened to jump off a bridge.
 
@@ -36,7 +37,7 @@ What about a data-driven solution that could serve as the back-end for many game
 
 We could use this for our client's games as well as our own titles, and provide a UI that made it easy for our clients to tweak their virals on the server. This solution could pull in data from Facebook and combine it with our own data so we could see how actions were performing, and which objects got posted the most. __We wanted metrics that showed what viral content was driving the most traffic.__
 
-We built a prototype, and Carrot was born.
+We made a prototype, and Carrot was born.
 
 {% img "thumbnail" http://gocarrot.com/assets/image/high-scores/png %}
 
