@@ -17,7 +17,7 @@ Last year I was working on an iOS game called Refuge. As part of the planning fo
 
 We knew Refuge was fun. It was similar to Space Invaders with an added mechanic where players scored higher as they comboed alien kills, and bounced shots off walls. But how could we get noticed, and how would we grow? The mobile market is crowded, and more apps get released every day.
 
-#### What we needed was Carrot, but it didn't exist yet.
+### What we needed was Carrot, but it didn't exist yet.
 
 It's not enough for developers to find users, and keep users; those __users need to generate more users.__
 
@@ -25,28 +25,24 @@ After watching Spotify explode with new users Mark, our Creative Director, said,
 
 {% img "thumbnail" /images/spotify_og.png %}
 
-#### "How hard could it be?"
+### "Getting carried away"
 
-We quickly discovered that Open Graph actions were very powerful, but very difficult to use. Using __Open Graph required a dedicated server__, a high level of technical know-how, and a time commitment to updating and maintaining the back-end. They required __very specific data in a very specific format__, and Facebook could request that data from our server at any time.
+We dove into Open Graph. Here was the ability highlight every attractive thing that our game did, every cool action our users performed. It was fun seeing our test posts mixed into the Facebook experience, as though they were every day stories.
 
-Setting this up separately for each of our games was out of the question. Alex, our CTO, threatened to jump off a bridge.
+Alex, (our CTO, who might be a secret masochist) enjoyed fighting through out of date documentation, confusing Facebook API calls, and poorly designed workflows. He built out a data-driven server platform, and I started writing native SDKs for iOS and Android.
 
-{% img "thumbnail" /images/post_to_facebook.png 360 212 %}
+Then Mark thought we needed an editing interface so he could edit the posts without having to update the app build. By the end of the process we had built out a WYSIWYG tool that allows you to create and manage Open Graph stories.
 
-What about a data-driven solution that could serve as the back-end for many games? Instead of worrying about posting the Open Graph action from the game itself, the game would use a simple SDK to send requests to that common back-end so that __when Facebook changed their API, we wouldn't have to update our games.__
-
-We could use this for our client's games as well as our own titles, and provide a UI that made it easy for our clients to tweak their virals on the server. This solution could pull in data from Facebook and combine it with our own data so we could see how actions were performing, and which objects got posted the most. __We wanted metrics that showed what viral content was driving the most traffic.__
-
-We made a prototype, and Carrot was born.
+__We were so excited by what we had built that we put our game on the back burner, and called this new tool 'Carrot'.__
 
 {% img "thumbnail" http://gocarrot.com/assets/image/high-scores/png %}
 
-#### We built Carrot to make users attract more users.
+### We built Carrot to make users attract more users.
 
 Since then we've made some great progress:
 
 * You can use our debugging tools to track down issues in your virals, so you don't have to wonder if something is broken.
-* Our customers can now do test posts for actions right from the web UI, to let marketing managers preview exactly how their content will be seen.
+* Our customers can do test posts for actions right from the web UI, to let marketing managers preview exactly how their content will be seen.
 * We're working on partnerships with some of the top players in the mobile spaces of tools, metrics, and customer acquisition.
 * Our seed funding round is progressing nicely.
 
