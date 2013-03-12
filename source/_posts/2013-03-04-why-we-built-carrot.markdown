@@ -15,7 +15,7 @@ New customers come from the actions of past customers.
 <hr />
 Last year I was working on an iOS game called Refuge. As part of the planning for release on the App Store we ran into a problem: __How do we get the word out about our game?__
 
-We knew Refuge was fun. It was similar to Space Invaders with an added mechanic where players scored higher as they comboed alien kills, and bounced shots off walls. But how could we get noticed, and how would we grow? The mobile market is crowded, and more apps get released every day.
+We knew Refuge was fun. It was similar to Space Invaders with an added mechanic where players scored higher as they got alien combo-kills, and bounced shots off walls. But how could we get noticed, and how would we grow? The mobile market is crowded, and more apps get released every day.
 
 ### What we needed was Carrot, but it didn't exist yet.
 
@@ -27,9 +27,9 @@ After watching Spotify explode with new users Mark, our Creative Director, said,
 
 ### "Getting carried away"
 
-We dove into Open Graph. Here was the ability highlight every attractive thing that our game did, every cool action our users performed. It was fun seeing our test posts mixed into the Facebook experience, as though they were every day stories.
+We dove into Open Graph. Here was the ability to highlight every attractive thing that our game did, every cool action our users performed. It was fun seeing our test posts mixed into the Facebook experience, as though they were every day stories.
 
-Alex, (our CTO, who might be a secret masochist) enjoyed fighting through out of date documentation, confusing Facebook API calls, and poorly designed workflows. He built out a data-driven server platform, and I started writing native SDKs for iOS and Android.
+Alex, (our CTO, who might be a secret masochist) enjoyed fighting through out-of-date documentation, confusing Facebook API calls, and poorly designed workflows. He built out a data-driven server platform, and I started writing native SDKs for iOS and Android.
 
 Then Mark thought we needed an editing interface so he could edit the posts without having to update the app build. By the end of the process we had built out a WYSIWYG tool that allows you to create and manage Open Graph stories.
 
@@ -46,6 +46,6 @@ Since then we've made some great progress:
 * We're working on partnerships with some of the top players in the mobile spaces of tools, metrics, and customer acquisition.
 * Our seed funding round is progressing nicely.
 
-We believe we can help developers get more users in their apps, and make those users generate more users. __We're building a company that measures its success on the success of our customers.__ Making a profitable business out of making our customers more profitable, that's a good place to be.
+We believe we can help developers get more users in their apps, and make those users generate more users. __We're building a company that measures its success on the success of our customers.__ Making a profitable business out of making our customers more profitable? That's a good place to be.
 
 Interested in Carrot? [Sign up](https://gocarrot.com/developers/sign_up) and give us a try! We talk to each of our customers personally. Your success is our success.
