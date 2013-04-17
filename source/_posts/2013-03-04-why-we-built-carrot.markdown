@@ -79,7 +79,7 @@ By the end of the process we had built out __a WYSIWYG tool__ that allows you to
 
 We quickly realized the potential of this idea was a bigger opportunity that the game we were working on. We put our game on the back burner and started a new type of advertising company. One that puts __your users in the center of the campaign.__ 
 
-__Interested in Carrot?__ We are currently seeking early adopters who want a competitive edge. Our early adopters get personal service because your success is our success. We want to know how we build better tools to help you.
+__Interested in Carrot?__ We are currently seeking early adopters who want a competitive edge. Our early adopters get personal service because your success is our success. Our goal is to build amazing tools for you.
 
 __[Sign up](https://gocarrot.com/developers/sign_up) or <a href="mailto:pat@gocarrot.com">send me an email</a>.__ 
 
