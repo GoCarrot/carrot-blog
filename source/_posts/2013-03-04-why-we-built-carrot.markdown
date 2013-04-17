@@ -8,7 +8,7 @@ date: 2013-03-04 13:41
 comments: false
 categories: [Carrot] 
 preview: "Last year, I was working on a small iOS game called Refuge. While planning for release we faced a problem: How do we get the word out about our game?"
-cover: /images/refuge_cave.png
+cover: /images/cave_dinosaur.png
 published: true
 ---
 
