@@ -10,6 +10,19 @@ single: true
 {% endif %}
   {% include article.html %}
   <footer>
+    <ul class="pager">
+      {% if page.previous.url %}
+      <li class="previous"><a class="basic-alignment left"
+        href="{{page.previous.url}}" title="Previous Post:
+        {{page.previous.title}}">&laquo; {{page.previous.title}}</a></li>
+      {% endif %}
+      <!-- <li><a href="/blog/archives">Blog Archives</a></li> -->
+      {% if page.next.url %}
+      <li class="next"><a class="basic-alignment right" href="{{page.next.url}}"
+        title="Next Post: {{page.next.title}}">{{page.next.title}}
+        &raquo;</a></li>
+      {% endif %}
+    </ul>
     {% unless page.sharing == false %}
       {% include post/sharing.html %}
     {% endunless %}
@@ -25,19 +38,6 @@ single: true
       <div id="disqus_thread" aria-live="polite">{% include post/disqus_thread.html %}</div>
     </section>
     {% endif %}
-    <ul class="pager">
-      {% if page.previous.url %}
-      <li class="previous"><a class="basic-alignment left"
-        href="{{page.previous.url}}" title="Previous Post:
-        {{page.previous.title}}">&laquo; {{page.previous.title}}</a></li>
-      {% endif %}
-      <li><a href="/blog/archives">Blog Archives</a></li>
-      {% if page.next.url %}
-      <li class="next"><a class="basic-alignment right" href="{{page.next.url}}"
-        title="Next Post: {{page.next.title}}">{{page.next.title}}
-        &raquo;</a></li>
-      {% endif %}
-    </ul>
   </footer>
 </article>
 {% unless page.sidebar == false %}
