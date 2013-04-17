@@ -6,8 +6,14 @@
 
 <meta property="fb:app_id" content="280914862014150" />
 <meta property="og:locale" content="en_US" />
-<meta property="og:type" content="website" />
-<meta property="og:image" content="http://blog.gocarrot.com/images/carrot_transparent.png" />
+
+<meta property="og:type" content="blog" />
+<meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
 <meta property="og:url" content="{{ canonical }}" />
-<meta property="og:title" content="{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}" />
-<meta property="og:description" content="{% if page.preview %}{{ page.preview }}{% else %}Virals done right.{% endif %}" />
+<meta property="og:image" content="{% if page.cover %}{{ site.url }}{{ page.cover }}{% else %}{{ site.url }}/images/carrot_transparent.png{% endif %}" />
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:description" content="{% if page.preview %}{{ page.preview }}{% else %}Viral marketing platform.{% endif %}" />
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="{% if site.twitter_user %} @{{ site.twitter_user }} {% endif %}">
+<meta name="twitter:creator" content="{% if page.authortwitter %} @{{ page.authortwitter }} {% elsif site.twitter_user %} @{{ site.twitter_user }} {% endif %}">
