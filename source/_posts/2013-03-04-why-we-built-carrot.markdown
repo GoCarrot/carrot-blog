@@ -3,10 +3,12 @@ layout: post
 title: "Why We Built Carrot"
 author: Pat Wilson
 authorface: /images/pat_profile.jpg
+authortwitter: pat_wilson
 date: 2013-03-04 13:41
 comments: false
 categories: [Carrot] 
 preview: "Last year, I was working on a small iOS game called Refuge. While planning for release we faced a problem: How do we get the word out about our game?"
+cover: /images/refuge_cave.png
 published: true
 ---
 
