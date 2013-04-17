@@ -82,15 +82,16 @@ body.blog {
   }
   .thumbnail {
     margin-top: 3px;
-    margin-bottom: 10px;
 
     &.pull-right {
       margin-left: 15px;
       margin-right: -60px;
+      margin-bottom: 10px;
     }
     &.pull-left {
       margin-right: 20px;
       margin-left: -60px;
+      margin-bottom: 10px;
     }
     p, figcaption {
       color: #333;

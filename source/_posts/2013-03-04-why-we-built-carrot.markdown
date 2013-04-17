@@ -6,7 +6,7 @@ authorface: /images/pat_profile.jpg
 date: 2013-03-04 13:41
 comments: false
 categories: [Carrot] 
-preview: "It's not enough for developers to find users, and keep users; those users need to generate more users."
+preview: "Last year, I was working on a small iOS game called Refuge. While planning for release we faced a problem: How do we get the word out about our game?"
 published: true
 ---
 
@@ -71,8 +71,8 @@ I used my background in cross platform development to write native SDKs for iOS,
 ### Productizing "viral engine tuning"
 
 <figure class="thumbnail pull-right span8">
-  {% img /images/cloud_interface.jpg %}
-  <figcaption>The Carrot interface today.</figcaption>
+  {% img /images/cloud_interface_thumbnail.jpg %}
+  <figcaption>The Carrot dashboard today.</figcaption>
 </figure>
 
 By the end of the process we had built out __a WYSIWYG tool__ that allows you to create and manage Open Graph stories. We had become experts on the Facebook platform. Plus we had lots of insight about that right and the wrong ways to do this. 
