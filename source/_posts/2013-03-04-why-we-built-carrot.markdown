@@ -77,9 +77,9 @@ I used my background in cross platform development to write native SDKs for iOS,
   <figcaption>The Carrot dashboard today.</figcaption>
 </figure>
 
-By the end of the process we had built out __a WYSIWYG tool__ that allows you to create and manage Open Graph stories. We had become experts on the Facebook platform. Plus we had lots of insight about that right and the wrong ways to do this. 
+By the end of the process we had built __a WYSIWYG tool__ that allows you to create and manage Open Graph stories. We had become experts on the Facebook platform. Plus we had lots of insight about the right and the wrong ways to do this. 
 
-We quickly realized the potential of this idea was a bigger opportunity that the game we were working on. We put our game on the back burner and started a new type of advertising company. One that puts __your users in the center of the campaign.__ 
+We quickly realized the potential of this idea was a bigger opportunity than the game we were working on. We put our game on the back burner and started a new type of advertising company. One that puts __your users in the center of the campaign.__ 
 
 __Interested in Carrot?__ We are currently seeking early adopters who want a competitive edge. Our early adopters get personal service because your success is our success. Our goal is to build amazing tools for you.
 
