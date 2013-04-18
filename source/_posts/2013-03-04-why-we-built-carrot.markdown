@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Why We Built Carrot"
+title: "Why we built carrot"
 author: Pat Wilson
 authorface: /images/pat_profile.jpg
 authortwitter: pat_wilson
@@ -36,13 +36,13 @@ Mark, our Creative Director, was watching how __Spotify__ exploded with new user
   <figcaption>Spotify invites you to listen to what your friends listen to.</figcaption>
 </figure>
 
-He wasn't talking about their growth alone, he was talking about the way they __spread quickly using Facebook.__ 
+He wasn't talking about their growth alone; he was talking about the way they __spread quickly using Facebook.__ 
 
 Spotify was using Facebook's then new __Open Graph actions__. This wasn't the hated 'wall spam' that plagued the early days of Facebook, this was a different way of getting the message out about what an app does, and how your friends use it. 
 
 This was social proof, advertising and viral marketing all slammed into one! I wondered, "__Why isn't everyone using this!?__"
 
-Our plan was to take __all the great moments of our game and turn them into social advertisements__ that promoted our game. Every attractive thing that our game did, every cool action our users performed would get sent to Facebook. Users having fun became the center of our marketing plan.
+Our plan was to take __all the great moments of our game and turn them into social advertisements__ that promoted our game. Every attractive thing that our game did and every cool action our users performed would get sent to Facebook. Users having fun became the center of our marketing plan.
 
 <figure class="thumbnail pull-right span9">
   {% img /images/refuge_gold.png %}
@@ -77,9 +77,9 @@ I used my background in cross platform development to write native SDKs for iOS,
   <figcaption>The Carrot dashboard today.</figcaption>
 </figure>
 
-By the end of the process we had built __a WYSIWYG tool__ that allows you to create and manage Open Graph stories. We had become experts on the Facebook platform. Plus we had lots of insight about the right and the wrong ways to do this. 
+By the end of the process, we had built __a WYSIWYG tool__ that allows you to create and manage Open Graph stories. We had become experts on the Facebook platform. Plus we had lots of insight about the right and the wrong ways to do this. 
 
-We quickly realized the potential of this idea was a bigger opportunity than the game we were working on. We put our game on the back burner and started a new type of advertising company. One that puts __your users in the center of the campaign.__ 
+We quickly realized the potential of this idea was a bigger opportunity than the game we were working on. We put our game on the back burner and started a new type of advertising company, one that puts __your users in the center of the campaign.__ 
 
 __Interested in Carrot?__ We are currently seeking early adopters who want a competitive edge. Our early adopters get personal service because your success is our success. Our goal is to build amazing tools for you.
 
