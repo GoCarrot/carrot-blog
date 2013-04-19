@@ -47,7 +47,7 @@ __If this gives you ideas__ for stories that your app might share on Facebook, t
   <li>Use our tools to measure and make those posts better</li>
 </ol>
 
-We've got several early adopters working with us now now. Their Carrot posts are pulling users for much cheaper and with __better click through rates__ than traditional advertising. It's really cool. 
+We've got several early adopters working with us now. Their Carrot posts are getting __better click through rates__ than traditional advertising. It's really cool. 
 
 They are helping us define and refine the tools we are building. If you like being on the cutting edge, and want to __give us input on the tools you would like to see__, then jump into the beta. 
 

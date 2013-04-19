@@ -51,7 +51,7 @@ Currently, we are working to help several app teams get the most from their app'
 
 __Our first product__ is a <a href="http://gocarrot.com">self serve platform</a> for apps to make use of Facebook's <a href="https://developers.facebook.com/docs/opengraph/overview/">Open Graph Stories</a>. We make it easy for developers to set it up and hand it off to marketing. We give marketing the tools to measure results and refine the stories that users share from their app to Facebook. 
 
-__Long term,__ we see a suite of products that reduce the time through the <a href="http://theleanstartup.com/principles">"build, measure, learn"</a> cycle for marketing tasks. The more iterations you can have against real world tests, the better your message it going to be. 
+__Long term,__ we see a suite of products that reduce the time through the <a href="http://theleanstartup.com/principles">"build, measure, learn"</a> cycle for marketing tasks. The more iterations you can have against real world tests, the better your message is going to be. 
 
 We also see a future where __better content__ is shared to social networks that is more relevant and more interesting for users. 
 
