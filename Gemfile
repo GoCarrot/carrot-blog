@@ -3,10 +3,10 @@ source "http://rubygems.org"
 # Needed only for rake preview
 group :development do
   gem 'rb-fsevent', '~> 0.9'
-  gem 'compass', '~> 0.12.1'
 end
 
 # Needed for slug compile
+gem 'compass', '~> 0.12.1'
 gem 'rake', '~> 0.9.2'
 gem 'rack', '~> 1.4.1'
 gem 'jekyll', '~> 0.11.2'
