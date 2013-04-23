@@ -16,7 +16,7 @@ published: true
 
 We've got several early adopters working with us now. Their Carrot posts are getting __better click through rates__ than banner advertising. It's really cool. 
 
-But, we need more data on ways to make this service even better, so our __[public beta is open](https://gocarrot.com/developers/sign_up)__ for business.
+But, we need more data on ways to make this service even better, so our __[public beta is open](https://gocarrot.com/developers/sign_up?referrer=blog)__ for business.
 
 We are actively seeking early adopters who want to experiment with a new platform designed to help them grow using __frictionless Facebook sharing.__
 
@@ -44,7 +44,7 @@ Maybe your app isn't a game. You have an app where __users send cards__. Your po
 
 Alex is very considerate. 
 
-__If this gives you ideas__ for stories that your app might share on Facebook, then you are a perfect candidate for our Open Beta.
+__If this gives you ideas__ for stories that your app might share on Facebook, then you are a perfect candidate for our open beta.
 
 <ol>
   <li>Enable your users to post Facebook</li>
@@ -53,7 +53,7 @@ __If this gives you ideas__ for stories that your app might share on Facebook, t
 
 Our early adopters are helping us define and refine the tools we are building. If you like being on the cutting edge, and want to __give us input on the tools you would like to see__, then jump into the beta. 
 
-__[Sign up here.](https://gocarrot.com/developers/sign_up)__
+__[Sign up here.](https://gocarrot.com/developers/sign_up?referrer=blog)__
 
 -- __Mark__
 
