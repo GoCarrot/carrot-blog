@@ -8,7 +8,7 @@ date: 2013-04-23 13:41
 comments: true
 categories: [Carrot]
 preview: "Are you an early adopter? Do you have an app? Do you want to see if Facebook sharing will attract new users?"
-cover: /images/cloud_interface.jpg
+cover: /images/example_cats.jpg
 published: true
 ---
 
