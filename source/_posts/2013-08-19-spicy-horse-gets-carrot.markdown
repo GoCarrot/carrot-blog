@@ -23,7 +23,7 @@ published: true
 ### Background
 
 <figure class="pull-right">
-  {% img /images/Spicy_Horse_Logo.png 115 100 Spicy Horse Games %}
+  {% img /images/Spicy_Horse_logo.png 115 100 Spicy Horse Games %}
 </figure>
 [Spicy Horse Games](http://www.spicyhorse.com/) is the largest independent game developer in Shanghai. Founded in 2007 by [American McGee](http://en.wikipedia.org/wiki/American_McGee), they have developed 8 games for a range of platforms including PC, Mobile, Facebook and Xbox30/PS3.
 
