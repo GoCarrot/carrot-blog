@@ -9,7 +9,7 @@ comments: true
 categories: [Carrot, Open Graph, Results]
 preview: "In our experience, Carrot is to player acquisition and retention what canned spinach is to Popeye."
 cover: /images/Spicy_Horse_Logo.png
-published: false
+published: true
 ---
 <p class="lead">
 	Spicy Horse Games approached Carrot to help them add Open Graph Stories to their game. The results speak for themselves. 
