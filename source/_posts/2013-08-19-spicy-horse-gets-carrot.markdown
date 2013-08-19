@@ -55,7 +55,7 @@ To **encourage premium content use**, stories highlight when players use an item
 
 In [Crazy Fairies](https://apps.facebook.com/crazy-fairies/?&ref=carrot_blog) there are cosmetic upgrades that players can use to personalize their experience. Stories get triggered when players use these items.
 
-Spicy Horse's Community and Marketing Manager, Kelly, was able to define these stories using Carrot. Using the "download code" button she was able to create a document that contained the code her programming team needed to trigger the stories.
+Spicy Horse's Community and Marketing Manager, Kelly, created the stories using Carrot. Using the "download code" button she was able to generate a document that contained the code her programming team needed to trigger the stories.
 
 Developer time for integration was less than a day. Once set up, Kelly had the creative control she needed to do tests and experiments without bothering the developers for changes.
 
