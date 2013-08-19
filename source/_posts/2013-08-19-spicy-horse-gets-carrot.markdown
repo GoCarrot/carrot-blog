@@ -4,9 +4,9 @@ title: "Spicy Horse gets the Carrot"
 author: Pat Wilson
 authorface: /images/pat_profile.jpg
 authortwitter: pat_wilson
-date: 2013-07-25 12:00
+date: 2013-08-19 12:00
 comments: true
-categories: [Carrot, Open Graph, Results]
+categories: [Carrot, Spicy Horse Games, Open Graph, Results]
 preview: "In our experience, Carrot is to player acquisition and retention what canned spinach is to Popeye."
 cover: /images/Spicy_Horse_Logo.png
 published: true
