@@ -25,4 +25,4 @@ We are excited about the mentorship, advice, connections, and the great creative
 
 Also there is free beer, woot!
 
--- Pat 
+-- __Pat__

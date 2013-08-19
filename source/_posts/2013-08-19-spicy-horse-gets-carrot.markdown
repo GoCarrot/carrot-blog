@@ -103,8 +103,6 @@ Once again, **for every 5 players that played each day, 1 new player was acquire
 
 Spicy Horse was thrilled with the results of using Open Graph Stories through Carrot. **They were able to increase their audience, revenue and overall app ratings with minimal investment.** They were also able to reduce their marketing spend by switching from display ads to more effective social posts.
 
-
-
 American McGee was so pleased with the the results, he instructed Kelly to come to our office and buy us lunch. **We had waffles. They were delicious.** Thanks, American.
 
--- Pat
+-- __Pat__

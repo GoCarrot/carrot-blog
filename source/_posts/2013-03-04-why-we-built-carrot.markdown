@@ -85,4 +85,4 @@ __Interested in Carrot?__ We are currently seeking early adopters who want a com
 
 __[Sign up](https://gocarrot.com/developers/sign_up?referrer=blog) or <a href="mailto:pat@gocarrot.com">send me an email</a>.__ 
 
--- Pat <small>(CEO)</small>
+-- __Pat__ <small>(CEO)</small>
