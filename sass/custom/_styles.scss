@@ -76,6 +76,10 @@ body.blog {
     li {
       line-height: inherit;
     }
+    ul ul {
+      margin-top: 0.6em;
+      margin-bottom: 0.6em;
+    }
   }
   ul.thumbnails {
     margin: 0;
