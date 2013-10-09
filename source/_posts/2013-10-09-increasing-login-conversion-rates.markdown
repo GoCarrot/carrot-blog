@@ -39,7 +39,7 @@ You *must* ask for publish permissions for Carrot to function, so this is very i
 And here at Carrot we have another tip for you:  
 ##### 4. Tell people what they'll get by connecting with Facebook  
 
-When people connect with Facebook they'll get to enjoy your app with their friends! If you can, include friend centric features that benefit from a Facebook connection. Check out Diamond Dash or Candy Crush Saga to see what even a leaderboard of your friends can do,.
+When people connect with Facebook they'll get to enjoy your app with their friends! If you can, include friend centric features that benefit from a Facebook connection. Check out Diamond Dash or Candy Crush Saga to see what a leaderboard of your friends can do.
 
 With these tips you'll be well on your way to a high Facebook login conversion rate and increased revenue!
 
