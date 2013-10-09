@@ -7,6 +7,7 @@ categories: [Carrot, Facebook, Best Practices]
 preview: "Lean how to increase your Facebook login conversion rate."
 authortwitter: alexscar
 authorface: /images/alex_profile.jpg
+published: true
 ---
 
 Today Facebook published a blog on how to boost your [Facebook login conversion rate about 70%](http://developers.facebook.com/blog/post/2013/10/09/3-ways-to-boost-your-facebook-login-conversion-rate-above-70/).
