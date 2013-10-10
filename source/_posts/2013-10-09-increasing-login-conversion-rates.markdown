@@ -5,6 +5,7 @@ date: 2013-10-09 15:57
 comments: true
 categories: [Carrot, Facebook, Best Practices]
 preview: "Lean how to increase your Facebook login conversion rate."
+author: Alex Scarborough
 authortwitter: alexscar
 authorface: /images/alex_profile.jpg
 published: true
@@ -44,4 +45,4 @@ When people connect with Facebook they'll get to enjoy your app with their frien
 
 With these tips you'll be well on your way to a high Facebook login conversion rate and increased revenue!
 
-
+-- __Alex__

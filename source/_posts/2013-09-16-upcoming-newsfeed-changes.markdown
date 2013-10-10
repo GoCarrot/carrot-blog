@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Upcoming Newsfeed Changes"
+author: Pat Wilson
 authorface: /images/pat_profile.jpg
 authortwitter: pat_wilson
 date: 2013-09-16 15:18
@@ -57,3 +58,5 @@ Until all Facebook users get the new image format for Open Graph stories your im
 Don't forget __you have one-click live testing__ for all of your stories and objects if you use Carrot.
 
 __[Sign up now](https://gocarrot.com/developers/sign_up?referrer=og_image_size_blog)__ and let your creatives preview their content live in Facebook.
+
+-- __Pat__
