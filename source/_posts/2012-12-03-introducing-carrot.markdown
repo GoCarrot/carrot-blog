@@ -69,10 +69,6 @@ Got a crazy interactive advertising experiment you want to try? Want to learn mo
 
 Say hello: <a href="mailto:mark@gocarrot.com">mark@gocarrot.com</a> 
 
-Just want to stay informed and stalk us from a distance? 
-
-Like <a href="http://www.facebook.com/GoCarrot">Carrot on Facebook</a> or follow <a href="https://twitter.com/go_carrot">@go_carrot on Twitter</a>.
-
 -- __Mark__
 <small>(Creative Director)</small>
 
