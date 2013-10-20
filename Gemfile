@@ -1,5 +1,7 @@
 source "http://rubygems.org"
 
+ruby "1.9.3"
+
 # Needed only for rake preview
 group :development do
   gem 'rb-fsevent', '~> 0.9'
