@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creating a Facebook Application"
+title: "How to create a Facebook Application"
 date: 2013-10-15 17:25
 comments: true
 categories: [Facebook]
