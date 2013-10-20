@@ -29,7 +29,7 @@ Finally, go through Facebook's survey (or skip it). Now you're done, and you can
 Click "+ Create New App" in the top right corner.
 
 {% img /images/create_app_dialog.png %}
-Enter your app's name in the text field. If you want to share using OpenGraph or [Teak](https://teak.io) you must enter an App Namespace. Try using your app's name in lowercase with only lowercase letters, dashes, and underscores. 
+Enter your app's name in the text field. If you want to share using OpenGraph or [Carrot](https://gocarrot.com) you must enter an App Namespace. Try using your app's name in lowercase with only lowercase letters, dashes, and underscores. 
 
 If you want to post scores or achievements to Facebook you must select 'Games' as your category. In general it's a good idea to select the category that best suits your app, as that's where you'll show up in the Facebook App Center.
 
