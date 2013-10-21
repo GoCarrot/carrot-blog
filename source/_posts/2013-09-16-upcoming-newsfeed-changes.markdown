@@ -8,6 +8,7 @@ date: 2013-09-16 15:18
 comments: true
 categories: [Carrot, Facebook, Open Graph, Best Practices]
 preview: "Learn about how the upcoming changes to Open Graph stories in Facebook's newsfeed will affect your images."
+description: "Learn about how the upcoming changes to Open Graph stories in Facebook's newsfeed will affect your images."
 cover: /images/new_og_display.png
 published: true
 ---

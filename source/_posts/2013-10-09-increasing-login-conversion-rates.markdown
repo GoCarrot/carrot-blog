@@ -4,7 +4,8 @@ title: "Increasing Login Conversion Rates"
 date: 2013-10-09 15:57
 comments: true
 categories: [Carrot, Facebook, Best Practices]
-preview: "Lean how to increase your Facebook login conversion rate."
+preview: "Learn how to increase your Facebook login conversion rate."
+description: Learn how to increase your Facebook login conversion rate with four simple tips.
 author: Alex Scarborough
 authortwitter: alexscar
 authorface: /images/alex_profile.jpg

@@ -6,6 +6,7 @@ comments: true
 categories: 
   - Facebook
 preview: Learn how to set up a Facebook Application
+description: Need a Facebook Application for advanced sharing or requests? Learn how to set one up in less than three minutes.
 author: Alex Scarborough
 authortwitter: alexscar
 authorface: /images/alex_profile.jpg

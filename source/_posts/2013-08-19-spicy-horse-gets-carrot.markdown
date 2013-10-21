@@ -8,6 +8,7 @@ date: 2013-08-19 12:00
 comments: true
 categories: [Carrot, Spicy Horse Games, Open Graph, Results]
 preview: "In our experience, Carrot is to player acquisition and retention what canned spinach is to Popeye."
+description: "See how Spicy Horse used Carrot to increase their marketing return on investment by 12x"
 cover: /images/Spicy_Horse_Logo.png
 published: true
 ---

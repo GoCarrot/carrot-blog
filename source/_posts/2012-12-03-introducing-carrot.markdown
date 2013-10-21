@@ -8,6 +8,7 @@ date: 2012-12-03 16:20
 comments: false
 categories: [Carrot, Open Graph]
 preview: "Hello, We're a team of 3 game industry vets who got really interested in viral growth. So much so, we decided to start a company to concentrate on it."
+description: "Hello, We're a team of 3 game industry vets who got really interested in viral growth. So much so, we decided to start a company to concentrate on it."
 cover: /images/carrot_transparent.png 
 published: true
 ---
