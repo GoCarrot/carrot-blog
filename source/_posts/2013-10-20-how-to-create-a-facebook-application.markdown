@@ -5,19 +5,20 @@ date: "2013-10-20 11:10"
 comments: true
 categories: 
   - Facebook
-preview: Lean how to set up a Facebook Application
+preview: Learn how to set up a Facebook Application
 author: Alex Scarborough
 authortwitter: alexscar
 authorface: /images/alex_profile.jpg
 published: true
 ---
 
-If you want to allow users to log in to your app using Facebook, share using OpenGraph, send requests to their friends, or be listed in the [Facebook App Center](http://www.facebook.com/appcenter) you'll need to have a Facebook Application. Don't worry though, it only takes a few minutes to get a Facebook Application. 
+If you want to allow users to log in to your app using Facebook, share using OpenGraph, send requests to their friends, or be listed in the [Facebook App Center](http://www.facebook.com/appcenter) you'll need to have a Facebook Application. 
 
-## Let's get started!
+Don't worry though, it only takes a few minutes to get a Facebook Application. 
 
-### Register as a FB Developer
-First you'll need to register as a Facebook Developer. To do so, go to the [Facebook Developer Site](https://developers.facebook.com/apps).
+### Let's get started!
+
+**First you'll need to register as a Facebook Developer.** To do so, go to the [Facebook Developer Site](https://developers.facebook.com/apps).
 {% img /images/register_developer.png %}
 **Click 'Register as a Developer'.**
 
