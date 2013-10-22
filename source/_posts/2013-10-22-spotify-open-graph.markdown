@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "How Spotify Got Stuck in My Head"
+title: How Spotify Got Stuck in My Head
 author: Mark McCoy
 authorface: /images/mark_profile.jpg
-date: 2013-10-22 13:41
+date: "2013-10-22 13:41"
 comments: true
-categories: [Carrot]
+categories: 
+  - Carrot
 preview: "How 'listening to music' taught me that sharing activity is more powerful that just sharing content."
-description: How Spotify's Open Graph sharing taught me that sharing activity is more powerful that just sharing content.
-published: false
+description: "How Spotify's Open Graph sharing taught me that sharing activity is more powerful that just sharing content."
+published: true
 ---
 
 <p class="lead">How "listening to music" taught me that sharing activity is more powerful that just sharing content.</p>
@@ -84,4 +85,4 @@ If you are an app developer, you are probably thinking the same thing. Open Grap
 
 Short stories about friends "_listening to music_" worked wonders for Spotify. __What short stories do you want your users to share?__ 
 
--- __Mark__ 
+-- __Mark__
