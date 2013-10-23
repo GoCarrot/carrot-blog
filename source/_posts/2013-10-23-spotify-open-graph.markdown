@@ -9,6 +9,7 @@ categories:
   - Carrot
 preview: "How 'listening to music' taught me that sharing activity is more powerful that just sharing content."
 description: "How Spotify's Open Graph sharing taught me that sharing activity is more powerful that just sharing content."
+cover: /images/listening.jpg
 published: true
 ---
 
