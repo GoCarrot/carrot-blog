@@ -1,18 +1,18 @@
 <div class="navbar globalnav">
   <div class="navbar-inner">
     <div class="container">
-      <a class="brand" href="{% carrot home %}"><img alt="Carrot" src="{% carrot image carrot_virals png %}" /></a>
+      <a class="brand" href="{% carrot home %}" onClick="trackOutboundLink(this, 'Homepage Link', 'Logo'); return false;"><img alt="Carrot" src="{% carrot image carrot_virals png %}" /></a>
       <!-- <ul class="nav nav-pills pull-right">
         <li id="navhome"><a href="{% carrot home %}">&#8592; Return to Carrot</a></li>
       </ul> -->
       <ul class="nav nav-pills pull-right">
-        <li id="navhome"><a href="{% carrot home %}">How it Works</a></li>
-        <li class=""><a href="{% carrot pricing %}">Pricing</a></li>
+        <li id="navhome"><a href="{% carrot home %}" onClick="trackOutboundLink(this, 'Homepage Link', 'How it Works'); return false;">How it Works</a></li>
+        <li class=""><a href="{% carrot pricing %}" onClick="trackOutboundLink(this, 'Homepage Link', 'Pricing'); return false;">Pricing</a></li>
         <li id="navblog" class="active"><a href="/">Blog</a></li>
-        <li id="navcontact"><a href="{% carrot contact %}">Contact</a></li>
+        <li id="navcontact"><a href="{% carrot contact %}" onClick="trackOutboundLink(this, 'Homepage Link', 'Contact'); return false;">Contact</a></li>
         <!-- <li id="navblog"><a href="{% carrot docs %}">Docs</a></li> -->
-        <li id="signup"><a href="{% carrot developers/sign_up %}" class="btn btn-signup btn-sell btn-large">Get started for Free</a></li>
-        <li id="login"><a href="{% carrot developers/sign_in %}" class="btn btn-signup btn-large">Log In</a></li>
+        <li id="signup"><a href="{% carrot developers/sign_up %}" class="btn btn-signup btn-sell btn-large" onClick="trackOutboundLink(this, 'Homepage Link', 'Sign up'); return false;">Get started for Free</a></li>
+        <li id="login"><a href="{% carrot developers/sign_in %}" class="btn btn-signup btn-large" onClick="trackOutboundLink(this, 'Homepage Link', 'Sign in'); return false;">Log In</a></li>
       </ul>
     </div>
   </div>

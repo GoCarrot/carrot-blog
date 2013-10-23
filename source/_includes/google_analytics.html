@@ -6,5 +6,16 @@
     })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
     ga('create', '{{ site.google_analytics_tracking_id }}', '{{ site.google_analytics_domain }}')
     ga('send', 'pageview');
+
+    function trackOutboundLink(link, category, action) { 
+     
+    try { 
+      ga('send', 'event', category, action);
+    } catch(err){}
+     
+      setTimeout(function() {
+        document.location.href = link.href;
+      }, 100);
+    }
   </script>
 {% endif %}
