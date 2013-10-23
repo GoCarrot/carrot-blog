@@ -4,6 +4,9 @@ layout: default
 
 <div class="span9">
   {% assign index = true %}
+  <script>
+  var mouseflowPath = "/blog";
+  </script>
   {% for post in paginator.posts %}
   {% assign content = post.content %}
     <article class="pagewrap">
