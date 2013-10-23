@@ -3,7 +3,7 @@ layout: post
 title: How Spotify Got Stuck in My Head
 author: Mark McCoy
 authorface: /images/mark_profile.jpg
-date: "2013-10-22 13:41"
+date: "2013-10-23 9:14"
 comments: true
 categories: 
   - Carrot
