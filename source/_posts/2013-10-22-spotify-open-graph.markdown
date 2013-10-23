@@ -9,7 +9,7 @@ categories:
   - Carrot
 preview: "How 'listening to music' taught me that sharing activity is more powerful that just sharing content."
 description: "How Spotify's Open Graph sharing taught me that sharing activity is more powerful that just sharing content."
-published: true
+published: false
 ---
 
 <p class="lead">How "listening to music" taught me that sharing activity is more powerful that just sharing content.</p>
@@ -73,9 +73,11 @@ The short story "Pat listened to a song on Spotify" contains enough information 
 
 At a glance, I'd been educated with everything I needed to know. **Not only do I know what the app does, but I also have social confirmation that my friend thinks it's cool.**
 
-It's brilliant advertising and it doesn't feel like advertising. My friend is just doing what he does and I'm learning about the app he is using. **It's word of mouth advertising without the mouths.** It's like seeing the Nike logo on your friend's shoes and knowing the brand he likes without having to ask. 
+It's brilliant advertising and it doesn't feel like advertising. My friend is just doing what he does and I'm learning about the app he is using. **It's word of mouth advertising without a word spoken.** 
 
-As I saw more and more of these posts from my friends, I eventually tried the app out. Turns out it's great a great app for listening to music. The strategy worked: my friends taught me about a service that I wouldn't have paid attention to otherwise and I became a Spotify user.
+When you see a logo on your friend's shoes you know the brand they like without having to ask. When you see an app in your friend's Facebook activity, you learn about an app that they enjoy. **This is friend to friend marketing.**
+
+As I saw more and more of these posts from my friends, I eventually tried the app out. Turns out it's great a great app for listening to music. The strategy worked: my friends taught me about a service that I wouldn't have paid attention to otherwise and I became a Spotify user (along with the millions of others who found it the same way).
 
 ### What do your users do?
 
