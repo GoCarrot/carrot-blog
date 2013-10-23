@@ -8,18 +8,14 @@
     ga('send', 'pageview');
 
     function trackOutboundLink(link, category, action) { 
-      console.log("Tracking link");
      
     try { 
-      console.log(category);
-      console.log(action);
       var result = ga('send', 'event', category, action);
-      console.log(result);
     } catch(err){ console.log(err); }
      
       setTimeout(function() {
         document.location.href = link.href;
-      }, 2000);
+      }, 100);
     }
   </script>
 {% endif %}
