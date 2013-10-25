@@ -93,6 +93,9 @@ delicious_count: 3
 disqus_short_name:
 disqus_show_comment_count: false
 
+# Segment.io
+segment_io_tracking_id: '4ffu9ijq4e'
+
 # Google Analytics
 google_analytics_tracking_id: 'UA-35792905-2'
 google_analytics_domain: 'gocarrot.com'
