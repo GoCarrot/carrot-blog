@@ -50,7 +50,7 @@ __We believe:__
 
 Currently, we are working to help several app teams get the most from their app's viral potential.
 
-__Our first product__ is a <a href="http://gocarrot.com">self serve platform</a> for apps to make use of Facebook's <a href="https://developers.facebook.com/docs/opengraph/overview/">Open Graph Stories</a>. We make it easy for developers to set it up and hand it off to marketing. We give marketing the tools to measure results and refine the stories that users share from their app to Facebook. 
+__Our first product__ is a <a href="http://teak.io">self serve platform</a> for apps to make use of Facebook's <a href="https://developers.facebook.com/docs/opengraph/overview/">Open Graph Stories</a>. We make it easy for developers to set it up and hand it off to marketing. We give marketing the tools to measure results and refine the stories that users share from their app to Facebook. 
 
 __Long term,__ we see a suite of products that reduce the time through the <a href="http://theleanstartup.com/principles">"build, measure, learn"</a> cycle for marketing tasks. The more iterations you can have against real world tests, the better your message is going to be. 
 
@@ -68,7 +68,7 @@ __We want to help marketers cut, polish, and shine their marketing.__
 
 Got a crazy interactive advertising experiment you want to try? Want to learn more about what we are doing? 
 
-Say hello: <a href="mailto:mark@gocarrot.com">mark@gocarrot.com</a> 
+Say hello: <a href="mailto:mark@teak.io">mark@teak.io</a> 
 
 -- __Mark__
 <small>(Creative Director)</small>

@@ -69,7 +69,7 @@ Alex, (our CTO, who might be a secret masochist) had experience shipping Faceboo
 
 Mark, (a fan of The Lean Startup and rapid iteration) insisted we needed to be able to update our messaging without an app update. So, we built __a cloud based editing interface__ that would allow real time tuning of viral messaging. 
 
-I used my background in cross platform development to write native SDKs for iOS, Android, and __any platform__ that seemed useful. (Need a platform we don't have? <a href="mailto:pat@gocarrot.com">Let me know</a>.) 
+I used my background in cross platform development to write native SDKs for iOS, Android, and __any platform__ that seemed useful. (Need a platform we don't have? <a href="mailto:pat@teak.io">Let me know</a>.) 
 
 ### Productizing "viral engine tuning"
 
@@ -84,6 +84,6 @@ We quickly realized the potential of this idea was a bigger opportunity than the
 
 __Interested in Carrot?__ We are currently seeking early adopters who want a competitive edge. Our early adopters get personal service because your success is our success. Our goal is to build amazing tools for you.
 
-__[Sign up](https://gocarrot.com/developers/sign_up?referrer=blog) or <a href="mailto:pat@gocarrot.com">send me an email</a>.__ 
+__[Sign up](https://teak.io/developers/sign_up?referrer=blog) or <a href="mailto:pat@teak.io">send me an email</a>.__ 
 
 -- __Pat__ <small>(CEO)</small>

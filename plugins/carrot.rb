@@ -16,7 +16,7 @@ module Jekyll
         if ENV.has_key?('OCTOPRESS_ENV') && ENV['OCTOPRESS_ENV'] == 'preview'
           @host = "localhost:5000"
         else
-          @host = "gocarrot.com"
+          @host = "teak.io"
         end
 
         asset_types = ['image', 'stylesheet', 'javascript']

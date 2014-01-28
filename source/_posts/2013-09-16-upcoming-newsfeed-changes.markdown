@@ -58,6 +58,6 @@ Until all Facebook users get the new image format for Open Graph stories your im
 ### Test Live With Carrot
 Don't forget __you have one-click live testing__ for all of your stories and objects if you use Carrot.
 
-__[Sign up now](https://gocarrot.com/developers/sign_up?referrer=og_image_size_blog)__ and let your creatives preview their content live in Facebook.
+__[Sign up now](https://teak.io/developers/sign_up?referrer=og_image_size_blog)__ and let your creatives preview their content live in Facebook.
 
 -- __Pat__

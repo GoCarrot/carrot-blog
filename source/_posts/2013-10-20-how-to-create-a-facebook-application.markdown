@@ -38,7 +38,7 @@ Finally, go through Facebook's survey (or skip it). Now you're done, and you can
 {% img /images/create_app_dialog.png %}
 **Enter your app's name in the text field.** 
 
-**For the App Namespace**, try using your app's name in lowercase with only lowercase letters, dashes, and underscores. You'll need this if you want to share using OpenGraph or [Carrot](https://gocarrot.com). 
+**For the App Namespace**, try using your app's name in lowercase with only lowercase letters, dashes, and underscores. You'll need this if you want to share using OpenGraph or [Carrot](https://teak.io). 
 
 **If you want to post scores or achievements to Facebook you must select 'Games' as your category.** In general it's a good idea to select the category that best suits your app, as that's where you'll show up in the Facebook App Center.
 
