@@ -12,6 +12,7 @@ description: "Learn about how the upcoming changes to Open Graph stories in Face
 cover: /images/new_og_display.png
 published: true
 ---
+<p class="lead">UPDATE: Facebook has decided not to roll out the new newsfeed format. A similar image format has been rolled out in the existing news feed instead.</p>
 <p class="lead">
   Facebook is updating the way Open Graph stories are displayed in the newsfeed. We'll help you understand what these changes are and how they will affect your content.
 </p>
@@ -23,7 +24,7 @@ Facebook is in the process of rolling out the new format for Open Graph stories 
 Pretty cool, huh? Your app's Open Graph stories are going to get a lot more screen space devoted to them and that means that now, more than ever, __you need to make your images rock__!
 
 ### In Brief
-* Make your images 1200x630
+* Make your images 600x600
 * Keep your content in the center
 
 ### What About Cropping?
@@ -51,9 +52,9 @@ We did some tests to show you how images will display in a variety of formats by
 </figure>
 
 ### The Takeaway
-You can __prepare now__ for the new Open Graph image format by using images that are 1200x630.
+You can __prepare now__ for the new Open Graph image format by using images that are 600x600.
 
-Until all Facebook users get the new image format for Open Graph stories your images will be cropped. You can make sure that your content doesn't get cut off by looking at the results of our tests and __keep your content in the center__.
+Be warned that your images will be cropped, depending on format. You can make sure that your content doesn't get cut off by looking at the results of our tests and __keep your content in the center__.
 
 ### Test Live With Carrot
 Don't forget __you have one-click live testing__ for all of your stories and objects if you use Carrot.
