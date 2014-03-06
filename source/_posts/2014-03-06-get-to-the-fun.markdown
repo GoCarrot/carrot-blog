@@ -14,7 +14,7 @@ If your app is struggling to monetize, take a look at your average session time.
 
 While in free to play games we may want to push players to the shop or otherwise give them reasons to spend, we shouldn't forget that the player just wants to play the game. By giving the player quick and friendly ways to enter the core game loop, you can skyrocket session times.
 
-Here's an example of a small change made by one of their customers that *doubled* their average session time. Before when a player first loaded the game, they saw this screen.
+Here's an example of a small change made by one of our customers that *doubled* their average session time. Before when a player first loaded the game, they saw this screen.
 {% img /images/old_game_ui.png Small play button %}
 
 Notice that the only way into the core game loop is a 30x87 button which is highlighted green. Even if the player were to spot it, it's unclear if this is the section that the player is already on, or if it's the section the player should switch to.
