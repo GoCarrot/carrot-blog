@@ -7,8 +7,8 @@ authorface: /images/pat_profile.jpg
 date: 2014-03-20 20:00
 comments: true
 categories: [Facebook, Mobile]
-preview: "375 million game referrals a day, is your game one of them?"
-description: "375 million game referrals a day, is your game one of them?"
+preview: "735 million game referrals a day, is your game one of them?"
+description: "735 million game referrals a day, is your game one of them?"
 cover: /images/fb_vs_others_graph.png
 published: true
 ---
