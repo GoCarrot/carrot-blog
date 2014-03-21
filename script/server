@@ -1,0 +1,5 @@
+#!/bin/sh
+
+script/bootstrap
+echo "Be sure to have the main Carrot app running"
+bundle exec rake preview
