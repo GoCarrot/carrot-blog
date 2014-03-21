@@ -9,7 +9,7 @@ comments: true
 categories: [Facebook, Mobile]
 preview: "375 million game referrals a day, is your game one of them?"
 description: "375 million game referrals a day, is your game one of them?"
-cover: /images/squirrel_eating_corn.jpg
+cover: /images/fb_vs_others_graph.png
 published: true
 ---
 Yesterday, [Facebook announced](https://developers.facebook.com/blog/post/2014/03/19/facebook-at-gdc-2014/) that they send **735 million referrals**. To games. Every day. _Every_ day.
