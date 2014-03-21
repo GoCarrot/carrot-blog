@@ -26,10 +26,6 @@ But if you’re a game developer? You need to stop listening to that hype. You d
 
 ### Squirrel!
 
-<figure class="thumbnail pull-right span8">
-  {% img /images/squirrel_eating_corn.jpg %}
-</figure>
-
 But sometimes, there’s something new. Something better than Facebook. Something that is going to be the hot new way of acquiring customers.
 
 Snapchat might seem like an interesting new trend, but do you really want to risk putting even a few of your eggs in that basket? 
@@ -78,4 +74,6 @@ We know it works, because we help developers do just that.
 If you are an app developer who is still a Facebook hater. **Stop ignoring the opportunity.** Stop hurting your business. Just stop. And give us a shot. 
 
 We’re here, and your app is awesome. Let’s unlock the potential of that awesomeness together.
+
+-- __Pat__
 
