@@ -1,16 +1,16 @@
 ---
 layout: post
-title: "Stop Ignoring Facebook"
+title: "Stop ignoring Facebook.. Just stop."
 author: Pat Wilson
 authortwitter: pat_wilson
 authorface: /images/pat_profile.jpg
 date: 2014-03-20 20:00
 comments: true
 categories: [Facebook, Mobile]
-preview: "Learn about how the upcoming changes to Open Graph stories in Facebook's newsfeed will affect your images."
-description: "Learn about how the upcoming changes to Open Graph stories in Facebook's newsfeed will affect your images."
-cover: /images/ship_it.jpg
-published: false
+preview: "375 million game referrals a day, is your game one of them?"
+description: "375 million game referrals a day, is your game one of them?"
+cover: /images/squirrel_eating_corn.jpg
+published: true
 ---
 Yesterday, [Facebook announced](https://developers.facebook.com/blog/post/2014/03/19/facebook-at-gdc-2014/) that they send **735 million referrals**. To games. Every day. _Every_ day.
 
@@ -44,11 +44,10 @@ Why am I so sure? Well it’s simple...
 
 <figure class="thumbnail">
   {% img /images/fb_vs_others_graph.png %}
+  <figcaption>
+    Sources: [CNBC](http://www.cnbc.com/id/101160163) & [Business Insider](http://www.businessinsider.com/snapchat-active-users-exceed-30-million-2013-12)
+  </figcaption>
 </figure>
-
-[http://www.cnbc.com/id/101160163](http://www.cnbc.com/id/101160163)
-
-[http://www.businessinsider.com/snapchat-active-users-exceed-30-million-2013-12](http://www.businessinsider.com/snapchat-active-users-exceed-30-million-2013-12)
 
 This isn’t an assumption. This is a fact. More people are on Facebook than on any other social network. Actually, more people are on Facebook than in any one country. Heck, there are more people on Facebook than on some continents. There are more… well, there’s just a lot of people on Facebook. 
 
