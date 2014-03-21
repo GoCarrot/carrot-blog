@@ -1,0 +1,26 @@
+#!/bin/bash --login
+
+# Check if we need to run the script
+BOOTSTRAP_VERSION="foo"
+DEPENDENCIES=".ruby-version .ruby-gemset Gemfile.lock"
+CURRENT_VERSION=$(md5 -q $DEPENDENCIES | md5 -q)
+if [ -f .bootstrap_version ]; then
+  BOOTSTRAP_VERSION=`cat .bootstrap_version`
+fi
+
+# None of our dependencies have been changed since we last ran
+if [ $CURRENT_VERSION = $BOOTSTRAP_VERSION ]; then
+  exit 0
+fi
+echo $CURRENT_VERSION > .bootstrap_version
+
+rvm install `cat .ruby-version`
+rvm use `cat .ruby-version`
+rvm gemset use `cat .ruby-gemset`
+
+gem install bundler --no-ri --no-rdoc --quiet
+
+bundle install
+if [ ! -f .foreman ]; then
+  echo "port: 4000" > .foreman
+fi
