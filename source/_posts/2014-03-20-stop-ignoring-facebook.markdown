@@ -26,6 +26,10 @@ But if you’re a game developer? You need to stop listening to that hype. You d
 
 ### Squirrel!
 
+<figure class="thumbnail pull-right span8">
+  {% img /images/squirrel_eating_corn.jpg %}
+</figure>
+
 But sometimes, there’s something new. Something better than Facebook. Something that is going to be the hot new way of acquiring customers.
 
 Snapchat might seem like an interesting new trend, but do you really want to risk putting even a few of your eggs in that basket? 
@@ -45,7 +49,7 @@ Why am I so sure? Well it’s simple...
 <figure class="thumbnail">
   {% img /images/fb_vs_others_graph.png %}
   <figcaption>
-    Sources: [CNBC](http://www.cnbc.com/id/101160163) & [Business Insider](http://www.businessinsider.com/snapchat-active-users-exceed-30-million-2013-12)
+    Sources: <a href="http://www.cnbc.com/id/101160163">CNBC</a> & <a href="http://www.businessinsider.com/snapchat-active-users-exceed-30-million-2013-12">Business Insider</a>
   </figcaption>
 </figure>
 
