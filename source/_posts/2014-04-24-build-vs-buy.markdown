@@ -12,7 +12,7 @@ description: "Why should we pay for your service instead of just doing this ours
 cover: /images/piggy_bank_with_hammer.jpg
 published: true
 ---
-Like I talked about in [my last blog](blog/2014/03/20/stop-ignoring-facebook/), Facebook is not something you can afford to ignore. With 735 million referrals getting sent to games alone every day you want to know, “How can we get our app as many of those users as possible?” So if you can’t ignore Facebook, you need a solution in order to seize the opportunity.
+Like I talked about in [my last blog](/blog/2014/03/20/stop-ignoring-facebook/), Facebook is not something you can afford to ignore. With 735 million referrals getting sent to games alone every day you want to know, “How can we get our app as many of those users as possible?” So if you can’t ignore Facebook, you need a solution in order to seize the opportunity.
 
 I get the question all the time, “Why should we pay for your service instead of just doing this ourselves?” and it’s one of my favorite questions to answer.
 
