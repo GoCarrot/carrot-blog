@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stop ignoring Facebook.. Just stop."
+title: "Stop ignoring Facebook... Just stop."
 author: Pat Wilson
 authortwitter: pat_wilson
 authorface: /images/pat_profile.jpg
@@ -12,7 +12,7 @@ description: "735 million game referrals a day, is your game one of them?"
 cover: /images/fb_vs_others_graph_og.png
 published: true
 ---
-Yesterday, [Facebook announced](https://developers.facebook.com/blog/post/2014/03/19/facebook-at-gdc-2014/) that they send **735 million referrals**. To games. Every day. _Every_ day.
+[Facebook announced](https://developers.facebook.com/blog/post/2014/03/19/facebook-at-gdc-2014/) that they send **735 million referrals**. To games. Every day. _Every_ day.
 
 For us, this was no surprise. We see these referrals all of the time. While helping our customers with their Facebook integrations, we are constantly blown away with the effectiveness of Facebook for driving new users to an app. It just, well, works.
 
@@ -40,7 +40,7 @@ Facebook, to put it bluntly, is an opportunity you would be an idiot to ignore.
 
 If it’s been said once, it’s been said a million times: sell where there are customers. If you want your app to grow, go where your customers are. I think you know where they are, but just in case I’ll say it again. For those of you in the cheap seats: **Your would-be customers are on Facebook.**
 
-Why am I so sure? Well it’s simple...
+Why am I so sure? Well, it’s simple...
 
 <figure class="thumbnail">
   {% img /images/fb_vs_others_graph.png %}
