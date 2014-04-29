@@ -10,7 +10,7 @@ comments: true
 categories: [Carrot]
 preview: "Everyone has heard that you need to integrate social in order to survive...but getting social set up to give you real returns is hard. We set out to make it easy. So how do we do it?"
 description: "Everyone has heard that you need to integrate social in order to survive...but getting social set up to give you real returns is hard. We set out to make it easy. So how do we do it?"
-cover: /images/office-space-bobs.jpg
+cover: /images/office-space-bobs.png
 published: true
 ---
 Getting users is hard, keeping users is hard...basically, making apps is hard. Everyone has heard that you need to integrate social in order to survive...but getting social set up to give you real returns is hard.
