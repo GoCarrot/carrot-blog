@@ -79,7 +79,7 @@ In one month, a mere **446,000** posts resulted in:
 * **6% conversion** increase
 * **18x revenue** increase (that is not a typo)
 
-In summary: **For each day of the month, for every 5 players that played, 1 new player was acquired**. 
+In summary: **For each day of the month, for every 5 players that played, 1 new player was acquired.**. This is a **25% increase** user acquisition.
 
 <figure class="pull-right thumbnail">
   {% img /images/logo_bigheadbash.png %}
