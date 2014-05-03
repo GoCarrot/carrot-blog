@@ -18,7 +18,7 @@ I wrote previously about [build vs buy](/blog/2014/04/24/build-vs-buy/) and laid
 
 Everyone has heard that you need to integrate social in order to survive. But, getting social set up to give you real returns is hard. We set out to make that easy. 
 
-So, when you choose Teak, what are you are buying? Aka: "What would ya say.. ya do here?"
+So, when you choose Carrot, what are you are buying? Aka: "What would ya say.. ya do here?"
 
 ### All forms of Facebook sharing and virals
 Carrot makes it trivial to take advantage of all of the forms of sharing and virals on Facebook:
