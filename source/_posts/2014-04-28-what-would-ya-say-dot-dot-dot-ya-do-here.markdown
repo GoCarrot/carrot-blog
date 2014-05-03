@@ -13,16 +13,19 @@ description: "Everyone has heard that you need to integrate social in order to s
 cover: /images/office-space-bobs.png
 published: true
 ---
-Getting users is hard, keeping users is hard... basically, making apps is hard. Everyone has heard that you need to integrate social in order to survive... but getting social set up to give you real returns is hard.
 
-We set out to make it easy. So how do we do it?
+I wrote previously about [build vs buy](/blog/2014/04/24/build-vs-buy/) and laid out the arguments for not building your own solutions. 
+
+Everyone has heard that you need to integrate social in order to survive. But, getting social set up to give you real returns is hard. We set out to make that easy. 
+
+So, when you choose Teak, what are you are buying? Aka: "What would ya say.. ya do here?"
 
 ### All forms of Facebook sharing and virals
 Carrot makes it trivial to take advantage of all of the forms of sharing and virals on Facebook:
 
 * Passively shared Open Graph stories
 * Explicitly shared Open Graph stories
-* Wall posts
+* Feed posts
 * Requests
 * Notifications
 
